@@ -47,6 +47,8 @@ highlighting enforcement, segmentation and detection layers.
 This model focuses on limiting trust propagation, enforcing policy at Layer 3,
 and enabling continuous monitoring of authenticated devices.
 
+![Adversarial NAC Architecture](Architecture.png)
+
 ---
 
 ## Adversarial Perspective (High-Level)
